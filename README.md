@@ -1,1 +1,1 @@
-# Calculator
+# Calculator app using the dot net core application
